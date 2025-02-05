@@ -2,16 +2,14 @@
 
 # 📌 Project Name <!-- Project Name here -->
 
-## 📝 Overview
-<!-- A brief description of the project. Explain what it does, its purpose, and its key features. -->
+Pong
 
-## 🎯 Learning Objectives
-<!--
-- List the programming concepts or technologies covered in this project.
-- Example: Loops, Functions, API calls, Object-Oriented Programming, etc.
--->
+## 📝 Overview
+
+Classic multiplayer Pong game made with Pygame. First to 10 points wins. Paddle control keys: - Player 1: w/s - Player 2: up/down
 
 ## 🛠️ Technologies Used
+- Pygame
 <!--
 - Programming Language(s): Python, JavaScript, etc.
 - Frameworks/Libraries: React, Flask, etc.
